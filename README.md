@@ -96,11 +96,11 @@ I am looking for opportunities where I can:
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrai-dev&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrai-dev&layout=compact&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=ritikrai-dev&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ritikrai-dev&theme=tokyonight)
 
 ---
 
