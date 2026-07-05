@@ -1,121 +1,113 @@
 <h1 align="center">Hi 👋, I'm Ritik Rai</h1>
 
-<h3 align="center">
-Software Developer • MERN Stack Developer • React.js Enthusiast
-</h3>
+<h3 align="center">Software Developer | Full Stack (MERN) Developer | React.js Enthusiast</h3>
 
 <p align="center">
-I enjoy building scalable web applications, learning modern technologies, and solving real-world problems through code.
+Full Stack Developer focused on building scalable web applications using modern JavaScript technologies. Passionate about clean architecture, performance optimization, and continuous learning.
 </p>
 
 ---
 
-# 💼 About Me
+## 💼 About Me
 
-- 💻 Aspiring Software Engineer focused on Full Stack Development
-- ⚛️ Strong interest in React.js and the MERN Stack
-- 🌱 Currently learning Node.js, Express.js, MongoDB, JWT Authentication, and System Design
-- 🚀 Consistently building projects and improving through hands-on development
-- 📚 Committed to continuous learning and writing clean, maintainable code
-- 🎯 Actively seeking Software Developer, Full Stack Developer, React Developer, and Internship opportunities
+- 🎯 Aspiring Software Engineer specializing in Full Stack Development  
+- ⚛️ Strong focus on React.js and MERN Stack (MongoDB, Express, React, Node.js)  
+- 🔐 Currently learning Authentication, REST APIs, and System Design fundamentals  
+- 🚀 Hands-on builder with a project-driven learning approach  
+- 🧠 Strong interest in writing clean, maintainable, and scalable code  
+- 💡 Actively seeking Internship / Full Stack Developer / React Developer roles  
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 ### Languages
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Python
-- C++
+JavaScript (ES6+), Python, C++, HTML5, CSS3  
 
 ### Frontend
-- React.js
-- Tailwind CSS
-- Bootstrap
+React.js, Tailwind CSS, Bootstrap  
 
 ### Backend
-- Node.js
-- Express.js
+Node.js, Express.js  
 
 ### Database
-- MongoDB
-- MySQL
+MongoDB, MySQL  
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
+### Tools & Platforms
+Git, GitHub, VS Code, Postman, Figma  
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## Hangman Game
+### 💰 ExpenseX – Smart Expense Tracker (Full Stack MERN App)
 
-A modern web-based Hangman game built with React.
+A full-stack expense tracking application designed to help users manage personal finances efficiently with a clean UI and intelligent insights.
 
-### Features
+**Key Highlights:**
+- 🔐 User authentication system (JWT-based)
+- 📊 Add, edit, and delete transactions
+- 📈 Real-time expense tracking dashboard
+- 🧠 AI-powered insights for spending analysis
+- 📱 Responsive UI for all devices
+- ⚙️ RESTful API integration (MERN architecture)
 
-- User Authentication UI
-- Interactive Game Logic
-- Win & Lose Screens
-- Responsive Design
-- Clean Component Architecture
+**Tech Stack:**
+React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
-**Current Focus**
-- Backend Integration
-- Authentication with JWT
-- Database Connectivity
-- Performance Improvements
+**Current Improvements:**
+- Advanced analytics & charts dashboard
+- Export transactions (PDF/Excel/JSON)
+- Performance optimization
+- UI/UX enhancements with better data visualization
+---
+
+## 📈 Current Focus
+
+- Full Stack MERN Development  
+- Data Structures & Algorithms (Problem Solving)  
+- REST API Development & Authentication  
+- Software Engineering Best Practices  
 
 ---
 
-# 📈 What I'm Working On
+## 🎯 Career Objective
 
-- Building Full Stack MERN Projects
-- Strengthening Data Structures & Algorithms
-- Learning REST APIs and Authentication
-- Improving Software Engineering best practices
+To contribute as a Software Developer in a growth-oriented environment where I can:
 
----
-
-# 🎯 Career Objective
-
-I am looking for opportunities where I can:
-
-- Contribute to real-world products
-- Learn from experienced engineers
-- Build scalable applications
-- Grow as a Software Engineer
+- Build real-world scalable applications  
+- Work with experienced engineering teams  
+- Strengthen system design and backend skills  
+- Continuously grow as a full-stack engineer  
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrai-dev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrai-dev&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ritikrai-dev&theme=tokyonight)
-
----
-
-# 🤝 Let's Connect
-
-📧 Email: cs.ritikrai@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/ritikrai-dev
-
-🌐 Portfolio: https://ritikrai-dev.github.io/portfolio/
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikrai-dev&theme=tokyonight" />
+</p>
 
 ---
 
-# 📌 Philosophy
+## 🤝 Connect With Me
 
-> "Great software is built through consistency, curiosity, and continuous improvement."
+- 📧 Email: cs.ritikrai@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ritikrai-dev  
+- 🌐 Portfolio: https://ritikrai-dev.github.io/portfolio/  
 
-Thank you for visiting my profile. Feel free to explore my repositories and connect for collaboration or opportunities.
+---
+
+## 📌 Philosophy
+
+> “Consistency and clarity in problem solving build great engineers.”
+
+---
