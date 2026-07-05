@@ -88,13 +88,13 @@ To contribute as a Software Developer in a growth-oriented environment where I c
   <img src="https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrai-dev&layout=compact&theme=tokyonight" />
-</p>
+---
+## 🧠 Development Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritikrai-dev&theme=tokyonight" />
-</p>
+- Full Stack MERN Applications (React + Node + MongoDB)
+- Authentication systems (JWT, sessions)
+- REST API development & integration
+- Real-world project building (ExpenseX)
 
 ---
 
