@@ -1,113 +1,161 @@
-<h1 align="center">Hi 👋, I'm Ritik Rai</h1>
+# Hi 👋, I'm Ritik Rai
 
-<h3 align="center">Software Developer | Full Stack (MERN) Developer | React.js Enthusiast</h3>
+### 🚀 Software Developer | Full Stack MERN Developer | React.js Enthusiast | Open Source Contributor
 
 <p align="center">
-Full Stack Developer focused on building scalable web applications using modern JavaScript technologies. Passionate about clean architecture, performance optimization, and continuous learning.
+Building scalable full-stack web applications with modern JavaScript technologies. Passionate about creating impactful products, solving real-world problems, and continuously improving through hands-on development.
 </p>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 About Me
 
-- 🎯 Aspiring Software Engineer specializing in Full Stack Development  
-- ⚛️ Strong focus on React.js and MERN Stack (MongoDB, Express, React, Node.js)  
-- 🔐 Currently learning Authentication, REST APIs, and System Design fundamentals  
-- 🚀 Hands-on builder with a project-driven learning approach  
-- 🧠 Strong interest in writing clean, maintainable, and scalable code  
-- 💡 Actively seeking Internship / Full Stack Developer / React Developer roles  
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-JavaScript (ES6+), Python, C++, HTML5, CSS3  
-
-### Frontend
-React.js, Tailwind CSS, Bootstrap  
-
-### Backend
-Node.js, Express.js  
-
-### Database
-MongoDB, MySQL  
-
-### Tools & Platforms
-Git, GitHub, VS Code, Postman, Figma  
+- 🎓 B.Sc. Computer Science Student (Mumbai University)
+- 💼 Full Stack Developer specializing in the MERN Stack
+- 🌱 Currently learning System Design, Advanced Backend Development & Cloud Deployment
+- 🔐 Experienced in Authentication, Authorization, REST APIs & Database Design
+- 🚀 Project-driven learner who enjoys building production-ready applications
+- 💡 Passionate about clean architecture, scalable code, and performance optimization
+- 🎯 Seeking Software Developer, Full Stack Developer, or React Developer Internship/Job opportunities
 
 ---
 
-## 🚀 Featured Project
+## 🛠 Tech Stack
 
-### 💰 ExpenseX – Smart Expense Tracker (Full Stack MERN App)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-A full-stack expense tracking application designed to help users manage personal finances efficiently with a clean UI and intelligent insights.
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Key Highlights:**
-- 🔐 User authentication system (JWT-based)
-- 📊 Add, edit, and delete transactions
-- 📈 Real-time expense tracking dashboard
-- 🧠 AI-powered insights for spending analysis
-- 📱 Responsive UI for all devices
-- ⚙️ RESTful API integration (MERN architecture)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Tech Stack:**
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 ExpenseX – Smart Personal Finance Manager
+
+A production-ready Full Stack MERN application that helps users manage personal finances with intelligent insights.
+
+### ✨ Features
+
+- 🔐 JWT Authentication & Authorization
+- 💸 Income & Expense Management
+- 📊 Interactive Dashboard & Analytics
+- 📈 AI-Powered Financial Insights
+- 📂 Export Reports (PDF, Excel & JSON)
+- 📱 Fully Responsive Design
+- ⚡ Optimized REST APIs
+- 📉 Charts & Data Visualization
+
+### 🛠 Tech Stack
+
 React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
-**Current Improvements:**
-- Advanced analytics & charts dashboard
-- Export transactions (PDF/Excel/JSON)
-- Performance optimization
-- UI/UX enhancements with better data visualization
 ---
 
-## 📈 Current Focus
+## 🍽 Recipe Master
 
-- Full Stack MERN Development  
-- Data Structures & Algorithms (Problem Solving)  
-- REST API Development & Authentication  
-- Software Engineering Best Practices  
+AI-powered recipe discovery application built with React.
 
 ---
 
-## 🎯 Career Objective
+## 📝 Notes App
 
-To contribute as a Software Developer in a growth-oriented environment where I can:
-
-- Build real-world scalable applications  
-- Work with experienced engineering teams  
-- Strengthen system design and backend skills  
-- Continuously grow as a full-stack engineer  
+Responsive React Notes application with search and CRUD functionality.
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Hangman Game
+
+Interactive React-based word guessing game.
+
+---
+
+# 🏆 Achievements
+
+- 🌟 GirlScript Summer of Code (GSSoC) 2026 Contributor
+- 💼 Completed Full Stack Development Virtual Internship at DecodeLabs
+- 🚀 Built multiple Full Stack MERN projects
+- 📚 Consistently solving DSA problems and improving problem-solving skills
+
+---
+
+# 📚 Currently Learning
+
+- Advanced MERN Development
+- System Design
+- Data Structures & Algorithms
+- Backend Architecture
+- Performance Optimization
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ritikrai-dev&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrai-dev&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikrai-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikrai-dev&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
-## 🧠 Development Focus
 
-- Full Stack MERN Applications (React + Node + MongoDB)
-- Authentication systems (JWT, sessions)
-- REST API development & integration
-- Real-world project building (ExpenseX)
+# 🎯 Current Focus
 
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: cs.ritikrai@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ritikrai-dev  
-- 🌐 Portfolio: https://ritikrai-dev.github.io/portfolio/  
+- ⚛️ Full Stack MERN Development
+- ⚡ React.js
+- 🟢 Node.js & Express.js
+- 🔐 Authentication & Security
+- 🌐 REST API Development
+- 🧠 Data Structures & Algorithms
+- 🏗️ System Design
 
 ---
 
-## 📌 Philosophy
+# 📈 GitHub Activity Graph
 
-> “Consistency and clarity in problem solving build great engineers.”
+[![Ritik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikrai-dev&theme=tokyo-night)](https://github.com/ritikrai-dev)
 
 ---
+
+# 🤝 Connect With Me
+
+- 📧 **Email:** cs.ritikrai@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/ritikrai-dev
+- 🌐 **Portfolio:** https://ritikrai-dev.github.io/portfolio/
+- 🐙 **GitHub:** https://github.com/ritikrai-dev
+
+---
+
+# 💭 Quote
+
+> **"Great software is built through consistency, curiosity, and continuous improvement."**
+
+⭐ **If you like my work, consider giving my repositories a star!**
